@@ -3,6 +3,7 @@ Coursera & Udemy 강의 정리
 
 ## 1. Machine Learning by Andrew Ng
 #### Recommender System 부분 (week9)
+- https://www.coursera.org/learn/machine-learning/lecture/uG59z/content-based-recommendations
 
 ## 2. Building Recommender Systems with Machine Learning and AI
 - https://www.udemy.com/home/my-courses/learning/
