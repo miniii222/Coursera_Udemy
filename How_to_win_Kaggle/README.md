@@ -38,3 +38,19 @@ splits space into boxes
 - Frequency encoding : 전체 데이터에서 몇프로의 비율로 출현하는지
 - One-hot encoding is often used for `non-tree-based-models`
 - Interactions of categorical features can help `non-tree-based-models`
+
+### Datetime
+- Periodicity
+- Difference between dates
+
+### Coordinates
+- centers of clusters
+- aggregated statistics
+- interesting places from train/test data or additional data
+
+
+## Missing Values
+- missing values can be hidden values(hidden values : replaced by some other value besdie not a number)
+- binary feature 'isnull' can be beneficial
+- avoid filling nans before feature generation
+- Xgboost can handle NaN
