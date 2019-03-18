@@ -7,3 +7,6 @@ Coursera & Udemy 강의 정리
 
 ## 2. Building Recommender Systems with Machine Learning and AI
 - https://www.udemy.com/home/my-courses/learning/
+
+## 3. How to Win a Data Science Competition: Learn from Top Kagglers
+- https://www.coursera.org/learn/competitive-data-science?
