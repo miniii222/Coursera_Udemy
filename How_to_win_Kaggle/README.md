@@ -3,6 +3,23 @@
 
 정리
 
+## Families of ML algorithms
+### Linear models
+- LogisticRegression, SVM
+- split space into 2 subspaces
+- especially good for sparse high dimensional data
+
+### Tree-based
+- Decision Tree, RandomForest, GBDT
+- hard to capture linear dependencies since it requires a lot of splits
+splits space into boxes
+- 오히려 간단한 linear model을 복잡하게 만듦
+### KNN
+- closer objects will likely to have same labels
+- heavy rely on how to measure points 'closeness'
+### Nerual Networks
+- feed-forward NNs produce smooth non-linear decision boundary
+
 #### -`tree-based models`
 #### - `non-tree based models : linear model, KNN`
 
